@@ -1,0 +1,7 @@
+1.登录网页版
+https://foxconnchengdumaci.bearychat.com/
+查找我的文件：https://foxconnchengdumaci.bearychat.com/api/files?user_id==bxmuK&lang=zh-CN
+删除我的文件：https://foxconnchengdumaci.bearychat.com/api/files/=bEiAK#files?lang=zh-CN
+这里需要修改cookie，查找和删除的cookie不一样userid需要自己抄浏览器里面的
+2.npm install
+2.node .\src\app.js
